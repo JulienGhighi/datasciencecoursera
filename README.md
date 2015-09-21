@@ -1,2 +1,2 @@
 # datasciencecoursera
-course projetc
+course project
